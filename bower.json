@@ -1,0 +1,16 @@
+{
+  "name": "contact-manager-angular",
+  "authors": [
+    "kiran gudla <kirankiran480@gmail.com>"
+  ],
+  "description": "Simple angular example application",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "angular" : "^1.5.7",
+    "angular-ui-router": "*",
+    "bootstrap": "*",
+    "jquery": "*"
+  }
+}
