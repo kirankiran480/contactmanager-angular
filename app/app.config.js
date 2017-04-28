@@ -3,9 +3,7 @@
  */
 
 angular
-.module('angularstrapApp', [
-	'ui.router'
-])
+.module('angularstrapApp', ['ui.router'])
 
 .constant('CONFIG',
 {

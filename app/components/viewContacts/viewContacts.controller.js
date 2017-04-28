@@ -2,9 +2,6 @@
  * Created by kirangudla on 18/4/17.
  */
 
-/**
- * Created by kirangudla on 16/4/17.
- */
 (function () {
     'use strict';
 
